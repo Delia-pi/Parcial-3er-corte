@@ -1,0 +1,7 @@
+{
+  "name": "parcial",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
